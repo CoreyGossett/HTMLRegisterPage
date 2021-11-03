@@ -1,7 +1,16 @@
 .navbutton {
     background-color: blue;
     color: white;
-    float: right;
+    margin-right: 5px;
+}
+
+.nav-bar {
+    text-align: right;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px; 
+    padding-right: 20px;
 }
 
 .submitbutton {
@@ -20,16 +29,11 @@ body {
     text-align: center;
     background-color: white;
     width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
 }
 
-#second {
-    margin-top: 10px;
+.text-input {
     margin-bottom: 10px;
 }
-
-#last {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-
