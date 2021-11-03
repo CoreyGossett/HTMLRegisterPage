@@ -1,0 +1,35 @@
+.navbutton {
+    background-color: blue;
+    color: white;
+    float: right;
+}
+
+.submitbutton {
+    background-color: blue;
+    color: white;
+    width: 170px;
+}
+
+body {
+    background-color: skyblue;
+}
+
+
+.formdiv {
+    display: block;
+    text-align: center;
+    background-color: white;
+    width: 500px;
+}
+
+#second {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#last {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
